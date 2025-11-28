@@ -33,7 +33,7 @@
         { freq: 659.25, duration: 400 },
         { freq: 783.99, duration: 500 },
 
-        // Final implacable
+        // Final
         { freq: 392.00, duration: 500 },
         { freq: 329.63, duration: 500 },
         { freq: 261.63, duration: 700 }
