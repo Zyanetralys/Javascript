@@ -327,8 +327,8 @@
     <div class="visualizer" id="visualizer"></div>
     
     <div class="info">
-      <h3> 準備→上昇→爆発→絶頂→静寂</h3>
-        Cada latido es un paso hacia la victoria.
+      <h3> 刀を抜け </h3>
+      準備→上昇→爆発→絶頂→静寂 - Cada latido es un paso hacia la victoria.
       </p>
     </div>
     
