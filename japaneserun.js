@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>侍 RUN ANTHEM ⚡</title>
+  <title>侍 RUN ANTHEM </title>
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@400;700;900&display=swap');
     
@@ -348,8 +348,8 @@
     const SECTIONS = {
       JUNBI:    { dur: 16, int: 0.25, label: "準備 - JUNBI", kanji: "静", desc: "Respiración • Enfoque" },
       JOSHOU:   { dur: 32, int: 0.55, label: "上昇 - JŌSHŌ", kanji: "昇", desc: "Aceleración • Flujo" },
-      BAKUHATSU:{ dur: 48, int: 0.92, label: "爆発 - BAKUHATSU", kanji: "⚡", desc: "¡GUERRA! • Máxima intensidad" },
-      ZECCHO:   { dur: 32, int: 1.0,  label: "絶頂 - ZECCHŌ", kanji: "🔥", desc: "Pico épico • Sin límites" },
+      BAKUHATSU:{ dur: 48, int: 0.92, label: "爆発 - BAKUHATSU", kanji: "WAR", desc: "¡GUERRA! • Máxima intensidad" },
+      ZECCHO:   { dur: 32, int: 1.0,  label: "絶頂 - ZECCHŌ", kanji: "Go", desc: "Pico épico • Sin límites" },
       SEIJAKU:  { dur: 16, int: 0.35, label: "静寂 - SEIJAKU", kanji: "和", desc: "Recuperación • Honor" }
     };
 
