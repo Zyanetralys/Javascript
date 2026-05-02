@@ -469,7 +469,7 @@
   
   <div class="container">
     <h1>⚔️ WARRIOR'S BLOOD ⚔️</h1>
-    <div class="subtitle">🔥 Battle Rhythm • 180 BPM • No Mercy 🔥</div>
+    <div class="subtitle"> Battle Rhythm • 180 BPM • No Mercy </div>
     
     <div class="war-cry" id="war-cry">BLOOD</div>
     <div class="bpm-display">180 BPM</div>
@@ -521,10 +521,10 @@
     // Secciones de batalla con intensidad progresiva
     const SECTIONS = {
       PREPARE:  { dur: 16, int: 0.22, label: "⚔ PREPARE FOR WAR", cry: "BLOOD", hr: 90, desc: "Respiración • Enfoque • Armas listas" },
-      MARCH:    { dur: 32, int: 0.58, label: "👣 MARCH TO BATTLE", cry: "MARCH", hr: 125, desc: "Paso firme • Ritmo constante • Unidad" },
-      CHARGE:   { dur: 40, int: 0.88, label: "🔥 CHARGE!", cry: "CHARGE", hr: 155, desc: "¡ACELERA! • Adrenalina • Sin freno" },
-      COMBAT:   { dur: 48, int: 1.0,  label: "⚔ COMBAT MODE", cry: "KILL", hr: 175, desc: "MÁXIMA INTENSIDAD • Combate total • Eres imparable" },
-      VICTORY:  { dur: 20, int: 0.42, label: "🏆 VICTORY", cry: "HONOR", hr: 110, desc: "Triunfo • Recuperación • Gloria" }
+      MARCH:    { dur: 32, int: 0.58, label: "MARCH TO BATTLE", cry: "MARCH", hr: 125, desc: "Paso firme • Ritmo constante • Unidad" },
+      CHARGE:   { dur: 40, int: 0.88, label: "CHARGE!", cry: "CHARGE", hr: 155, desc: "¡ACELERA! • Adrenalina • Sin freno" },
+      COMBAT:   { dur: 48, int: 1.0,  label: "COMBAT MODE", cry: "KILL", hr: 175, desc: "MÁXIMA INTENSIDAD • Combate total • Eres imparable" },
+      VICTORY:  { dur: 20, int: 0.42, label: "VICTORY", cry: "HONOR", hr: 110, desc: "Triunfo • Recuperación • Gloria" }
     };
 
     let audioCtx, master, analyser, playing = false;
@@ -1074,7 +1074,7 @@
       createEmbers();
     });
     
-    console.log("%c⚔️ WARRIOR'S BLOOD ANTHEM ⚔️", "color:#ff3333; font-size:20px; font-weight:bold; text-shadow:0 0 10px #ff0000;");
+    console.log("%cWARRIOR'S BLOOD ANTHEM ", "color:#ff3333; font-size:20px; font-weight:bold; text-shadow:0 0 10px #ff0000;");
     console.log("%c180 BPM • War Drums • Battle Horns • Cinematic Bass", "color:#ffcc00;");
     console.log("%cESPACIO: Engage/Stand Down | C: Battle Cry", "color:#ff9999;");
     console.log("%cBlood calls to blood. Warrior. Rise.", "color:#ff6666; font-style:italic;");
