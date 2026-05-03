@@ -311,14 +311,14 @@
   
   <div class="container">
     <h1>侍 RUN ANTHEM</h1>
-    <div class="subtitle">⚡ 疾走 • 武士道 • 180 BPM ⚡</div>
+    <div class="subtitle">走 • 武士道 • 180 BPM /div>
     
     <div class="kanji-large" id="main-kanji">走</div>
     <div class="bpm-display">180 BPM</div>
     <div class="section-indicator" id="section">準備 - JUNBI</div>
     
     <div class="controls">
-      <button onclick="startAnthem()">⚔️ 開始 - KAISHI</button>
+      <button onclick="startAnthem()">⚔開始 - KAISHI</button>
       <button class="stop" onclick="stopAnthem()">◼️ 停止 - TEISHI</button>
     </div>
     
